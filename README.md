@@ -1,2 +1,2 @@
 # alpha-react preview
-[![](./githubReadme/FoodPlace2.gif)](https://youtu.be/vt5fpE0bzSY)
+<img src="./githubReadme/FoodPlace2.gif" width="350" height="auto"/>
